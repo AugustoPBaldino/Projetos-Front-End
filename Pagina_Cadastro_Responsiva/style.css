@@ -203,6 +203,10 @@ body {
         flex-direction: column;
     }
 
+    .gender-title h6{
+        margin: 0;
+    }
+
     .gender-input {
         margin-top: 0.5rem;
     }
