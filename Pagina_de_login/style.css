@@ -110,17 +110,18 @@ body * {
     box-shadow: 0px 10px 40px -12px #00ff8052;
 }
 
-@media only scrren and (max-width: 950px) {
-  .card-login{
+@media only screen and (max-width: 950px) {
+  
+    .card-login{
     width: 85%;
   }  
 
-  .img{
+  img{
     display: none;
 }
 }
 
-@media only scrren and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
 
 .main-login{
     flex-direction: column;
